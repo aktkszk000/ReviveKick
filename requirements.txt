@@ -43,7 +43,7 @@ pluggy==1.0.0
 poetry==1.1.14
 poetry-core==1.0.8
 ptyprocess==0.7.0
-py-cord==2.2.3.dev62+g91ca670d
+py-cord==2.4.1
 pycparser==2.21
 pyflakes==2.5.0
 pylev==1.4.0
